@@ -4,9 +4,10 @@ import sqlite3
 from lxml import html
 
 base_url = 'https://www.d1xz.net/yunshi/'
-sql_insert_task = "REPLACE INTO stars VALUES('{}','{}','{}','{}')"
+sql_update = "UPDATE stars SET text='{}' WHERE id='{}'"
+filename_db = '../db.sqlite3'
 
-db = sqlite3.connect('./stars.db')
+db = sqlite3.connect(filename_db)
 
 for i in range(5):
     id01 = ''
@@ -92,8 +93,6 @@ for i in range(5):
 
         # 把记录添加到数据库
         cursor = db.cursor()
-        cursor.execute(sql_insert_task.format(id, star, time, result))
+        cursor.execute(sql_update.format(result, id))
         db.commit()
-
         cursor.close()
-        db.close()
