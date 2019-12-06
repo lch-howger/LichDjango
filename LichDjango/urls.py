@@ -20,4 +20,5 @@ from . import view
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('stars/', view.stars),
+    path('create/', view.update_stars),
 ]

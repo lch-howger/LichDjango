@@ -2,9 +2,12 @@ import urllib.request
 import re
 import sqlite3
 from lxml import html
-from stars.models import Star
 
 base_url = 'https://www.d1xz.net/yunshi/'
+sql_update = "UPDATE stars_star SET text='{}' WHERE id='{}'"
+filename_db = '../db.sqlite3'
+
+db = sqlite3.connect(filename_db)
 
 for i in range(5):
     id01 = ''
@@ -89,4 +92,7 @@ for i in range(5):
         print(result)
 
         # 把记录添加到数据库
-        Star.objects.filter(id=id).update(text=result)
+        cursor = db.cursor()
+        cursor.execute(sql_update.format(result, id))
+        db.commit()
+        cursor.close()

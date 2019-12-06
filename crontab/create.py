@@ -1,7 +1,7 @@
 import os
 import sqlite3
 
-sql_create_table = 'CREATE TABLE stars (id TEXT NOT NULL, star TEXT NOT NULL, time TEXT NOT NULL, text TEXT NOT NULL)'
+sql_create_table = 'CREATE TABLE stars_star (id TEXT NOT NULL, star TEXT NOT NULL, time TEXT NOT NULL, text TEXT NOT NULL)'
 filename_db = '../db.sqlite3'
 
 # connect to the database and get the cursor
