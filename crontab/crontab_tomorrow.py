@@ -64,10 +64,8 @@ for i in range(12):
 
     # 从html中取出元素class
     result = ''
-    if i == 0 or i == 1:
-        xpath = etree_html.xpath('//*[@class="det"] ')
-    elif i == 2 or i == 3 or i == 4:
-        xpath = etree_html.xpath('//*[@class="det week_det"] ')
+    xpath = etree_html.xpath('//*[@class="det"] ')
+    # xpath = etree_html.xpath('//*[@class="det week_det"] ')
 
     result = etree.tostring(xpath[0], encoding='utf-8').decode('utf-8')
     print(result)

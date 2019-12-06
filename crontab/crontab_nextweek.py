@@ -49,10 +49,10 @@ for i in range(12):
         id02 = '11'
         star = 'Pisces'
     # 拼接id
-    id = '00' + id02
+    id = '03' + id02
 
     # 拼接url
-    url = base_url + 'today' + '/' + star
+    url = base_url + 'nextweek' + '/' + star
 
     # 请求得到response
     response = urllib.request.urlopen(url)
@@ -64,8 +64,8 @@ for i in range(12):
 
     # 从html中取出元素class
     result = ''
-    xpath = etree_html.xpath('//*[@class="det"] ')
-    # xpath = etree_html.xpath('//*[@class="det week_det"] ')
+    # xpath = etree_html.xpath('//*[@class="det"] ')
+    xpath = etree_html.xpath('//*[@class="det week_det"] ')
 
     result = etree.tostring(xpath[0], encoding='utf-8').decode('utf-8')
     print(result)
