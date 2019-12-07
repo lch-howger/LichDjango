@@ -7,5 +7,5 @@ path = os.path.join(abspath, 'test.txt')
 str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 
 file = open(path, 'a')
-file.write('AAA------' + str + '\n')
+file.write('BBB------' + str + '\n')
 file.close()
