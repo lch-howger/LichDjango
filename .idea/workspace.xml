@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77c1dab5-8cd8-4d92-a745-65bcf20ebc97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/test_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_hello.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +216,7 @@
       <workItem from="1575545840676" duration="6132000" />
       <workItem from="1575597792730" duration="2336000" />
       <workItem from="1575639485757" duration="5021000" />
-      <workItem from="1575734485969" duration="630000" />
+      <workItem from="1575734485969" duration="1331000" />
     </task>
     <servers />
   </component>
