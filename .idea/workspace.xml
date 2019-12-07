@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77c1dab5-8cd8-4d92-a745-65bcf20ebc97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/test_file_hour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_file_minute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_file_six.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +43,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/crontab" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\D\Project\LichDjango\test" />
       <recent name="C:\D\Project\LichDjango\crontab" />
       <recent name="C:\D\Project\LichDjango\LichDjango" />
     </key>
@@ -216,7 +222,7 @@
       <workItem from="1575545840676" duration="6132000" />
       <workItem from="1575597792730" duration="2336000" />
       <workItem from="1575639485757" duration="5021000" />
-      <workItem from="1575734485969" duration="1331000" />
+      <workItem from="1575734485969" duration="2121000" />
     </task>
     <servers />
   </component>
@@ -231,34 +237,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575570351592" />
-    <state width="1493" height="247" key="GridCell.Tab.0.bottom" timestamp="1575735035975">
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom" timestamp="1575738590536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575735035975" />
-    <state width="1493" height="247" key="GridCell.Tab.0.center" timestamp="1575735035975">
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575738590536" />
+    <state width="1493" height="247" key="GridCell.Tab.0.center" timestamp="1575738590535">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575735035975" />
-    <state width="1493" height="247" key="GridCell.Tab.0.left" timestamp="1575735035975">
+    <state width="1493" height="247" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575738590535" />
+    <state width="1493" height="247" key="GridCell.Tab.0.left" timestamp="1575738590534">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575735035975" />
-    <state width="1493" height="247" key="GridCell.Tab.0.right" timestamp="1575735035975">
+    <state width="1493" height="247" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575738590534" />
+    <state width="1493" height="247" key="GridCell.Tab.0.right" timestamp="1575738590535">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575735035975" />
+    <state width="1493" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575738590535" />
     <state x="272" y="57" key="SettingsEditor" timestamp="1575546111081">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575546111081" />
-    <state x="390" y="143" width="755" height="538" key="find.popup" timestamp="1575598190445">
+    <state x="390" y="143" width="755" height="538" key="find.popup" timestamp="1575738702796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="390" y="143" width="755" height="538" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1575598190445" />
+    <state x="390" y="143" width="755" height="538" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1575738702796" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LichDjango$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1575552972966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/LichDjango$test_file.coverage" NAME="test_file Coverage Results" MODIFIED="1575735035969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/LichDjango$test_file.coverage" NAME="test_file Coverage Results" MODIFIED="1575738590511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/LichDjango$crontab__1_.coverage" NAME="crontab (1) Coverage Results" MODIFIED="1575598552583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LichDjango" />
     <SUITE FILE_PATH="coverage/LichDjango$crontab_test.coverage" NAME="crontab_test Coverage Results" MODIFIED="1575598813622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crontab" />
     <SUITE FILE_PATH="coverage/LichDjango$create.coverage" NAME="create Coverage Results" MODIFIED="1575546513776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crontab" />
