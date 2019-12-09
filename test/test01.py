@@ -15,4 +15,5 @@ def get_users():
     cursor.close()
     return records
 
+
 get_users()

@@ -13,5 +13,11 @@
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:\D\Project\LichDjango\bbb\db.db</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="db [3]" uuid="f481d50f-90c4-40f8-82da-9dbc2c0aaaba">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\D\Project\LichDjango\db.sqlite3</jdbc-url>
+    </data-source>
   </component>
 </project>
