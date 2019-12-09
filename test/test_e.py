@@ -6,6 +6,6 @@ path = os.path.join(abspath, 'test.txt')
 
 str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 
-file = open('test.txt', 'a')
+file = open('./test.txt', 'a')
 file.write('EEEEE------' + str + '\n')
 file.close()
