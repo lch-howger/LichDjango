@@ -2,16 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77c1dab5-8cd8-4d92-a745-65bcf20ebc97" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test/test_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_c.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_c.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_d.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test_e.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_e.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
@@ -26,6 +39,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\D\Project\LichDjango\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1UYuRJvDFGjhVAItAbDOyfz9Cqa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -42,18 +62,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\D\Project\LichDjango\ccc" />
+      <recent name="C:\D\Project\LichDjango\bbb" />
+      <recent name="C:\D\Project\LichDjango\aaa" />
       <recent name="C:\D\Project\LichDjango\test" />
       <recent name="C:\D\Project\LichDjango\crontab" />
-      <recent name="C:\D\Project\LichDjango\LichDjango" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_file">
-    <configuration name="crontab_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.coursework02_xjn">
+    <configuration name="coursework02_xjn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LichDjango" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,12 +83,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crontab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aaa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crontab/crontab_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/coursework02_xjn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="crontab_today" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="database (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LichDjango" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,12 +105,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crontab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ccc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crontab/crontab_today.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ccc/database.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="crontab_tomorrow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="project (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LichDjango" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,12 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crontab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bbb" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crontab/crontab_tomorrow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bbb/project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="project (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LichDjango" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,12 +149,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crontab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ccc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crontab/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ccc/project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="project" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LichDjango" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,12 +171,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aaa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_file" />
-        <item itemvalue="Python.crontab_today" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.crontab_tomorrow" />
-        <item itemvalue="Python.crontab_test" />
+        <item itemvalue="Python.coursework02_xjn" />
+        <item itemvalue="Python.project" />
+        <item itemvalue="Python.project (2)" />
+        <item itemvalue="Python.database (2)" />
+        <item itemvalue="Python.project (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +243,9 @@
       <workItem from="1575545840676" duration="6132000" />
       <workItem from="1575597792730" duration="2336000" />
       <workItem from="1575639485757" duration="5021000" />
-      <workItem from="1575734485969" duration="3331000" />
+      <workItem from="1575734485969" duration="3966000" />
+      <workItem from="1575825688748" duration="10326000" />
+      <workItem from="1575924903495" duration="872000" />
     </task>
     <servers />
   </component>
@@ -232,26 +256,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1575570351592">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1575840947366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575570351592" />
-    <state width="1493" height="247" key="GridCell.Tab.0.bottom" timestamp="1575739502714">
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575840947366" />
+    <state width="1493" height="276" key="GridCell.Tab.0.bottom" timestamp="1575840948555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575739502714" />
-    <state width="1493" height="247" key="GridCell.Tab.0.center" timestamp="1575739502714">
+    <state width="1493" height="276" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575840948555" />
+    <state width="1493" height="276" key="GridCell.Tab.0.center" timestamp="1575840948555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575739502714" />
-    <state width="1493" height="247" key="GridCell.Tab.0.left" timestamp="1575739502714">
+    <state width="1493" height="276" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575840948555" />
+    <state width="1493" height="276" key="GridCell.Tab.0.left" timestamp="1575840948555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575739502714" />
-    <state width="1493" height="247" key="GridCell.Tab.0.right" timestamp="1575739502714">
+    <state width="1493" height="276" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575840948555" />
+    <state width="1493" height="276" key="GridCell.Tab.0.right" timestamp="1575840948555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575739502714" />
+    <state width="1493" height="276" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575840948555" />
     <state x="272" y="57" key="SettingsEditor" timestamp="1575546111081">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -263,13 +287,20 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LichDjango$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1575552972966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/LichDjango$coursework02_xjn.coverage" NAME="coursework02_xjn Coverage Results" MODIFIED="1575840875414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/LichDjango$database__2_.coverage" NAME="database (2) Coverage Results" MODIFIED="1575832812938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ccc" />
+    <SUITE FILE_PATH="coverage/LichDjango$database.coverage" NAME="database Coverage Results" MODIFIED="1575831467818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/LichDjango$crontab_tomorrow.coverage" NAME="crontab_tomorrow Coverage Results" MODIFIED="1575641055245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crontab" />
+    <SUITE FILE_PATH="coverage/LichDjango$database__1_.coverage" NAME="database (1) Coverage Results" MODIFIED="1575832729962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bbb" />
     <SUITE FILE_PATH="coverage/LichDjango$test_file.coverage" NAME="test_file Coverage Results" MODIFIED="1575739502708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/LichDjango$project__1_.coverage" NAME="project (1) Coverage Results" MODIFIED="1575832747707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bbb" />
     <SUITE FILE_PATH="coverage/LichDjango$crontab__1_.coverage" NAME="crontab (1) Coverage Results" MODIFIED="1575598552583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LichDjango" />
     <SUITE FILE_PATH="coverage/LichDjango$crontab_test.coverage" NAME="crontab_test Coverage Results" MODIFIED="1575598813622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crontab" />
+    <SUITE FILE_PATH="coverage/LichDjango$project.coverage" NAME="project Coverage Results" MODIFIED="1575837704819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/LichDjango$create.coverage" NAME="create Coverage Results" MODIFIED="1575546513776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crontab" />
     <SUITE FILE_PATH="coverage/LichDjango$test.coverage" NAME="test Coverage Results" MODIFIED="1575641816235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crontab" />
-    <SUITE FILE_PATH="coverage/LichDjango$crontab_tomorrow.coverage" NAME="crontab_tomorrow Coverage Results" MODIFIED="1575641055245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crontab" />
     <SUITE FILE_PATH="coverage/LichDjango$crontab.coverage" NAME="crontab Coverage Results" MODIFIED="1575598513666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crontab" />
     <SUITE FILE_PATH="coverage/LichDjango$crontab_today.coverage" NAME="crontab_today Coverage Results" MODIFIED="1575642799394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crontab" />
+    <SUITE FILE_PATH="coverage/LichDjango$project__2_.coverage" NAME="project (2) Coverage Results" MODIFIED="1575832819667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ccc" />
   </component>
 </project>
